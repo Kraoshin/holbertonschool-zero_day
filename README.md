@@ -1,1 +1,3 @@
-ezo
+#!/bin/bash
+
+pwd
